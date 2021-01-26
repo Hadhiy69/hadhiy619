@@ -124,11 +124,11 @@ FOLLOW INSTAGRAM SAYA
 ${instagram}
 
 • TELEGRAM : ${telegram}
-• Youtube : R E U Z
-• WA : 081271699856
-• Pasang Iklan? Chat Whatsapp.
-
-📺 *IKLAN* : *YOUTUBE REUZ*
+• Youtube: -
+• WA: 081339099635
+• Pasang Iklan? Obrolan- Whatsapp.
+</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>
+📺 * IKLAN *: * - *
 
 🏚SELALU GUNAKAN MASKER SAAT KELUAR!🏚
 🏚SEMOGA SEHAT SELALU!🏚
