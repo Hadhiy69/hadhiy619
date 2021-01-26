@@ -1,4 +1,4 @@
-exports.donasi = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, telegram, youtube, kapanbotaktif, grupch1, grupch2) => {
+ekspo081339099635r . donasi         = ( id , BotName , corohelp , tampilTanggal , tampilWaktu , instagram , telegram , youtube , kapanbotaktif , grupch1 , grupch2 ) => {
 	return `🐼{ *MENU DONASI ${BotName}* }🐼
   
   
